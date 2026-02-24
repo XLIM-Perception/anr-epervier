@@ -4,8 +4,8 @@ permalink: pretty
 # Setup
 title: ANR ÉPERVIER
 
-url: https://new_website
-baseurl: ''
+url: https://XLIM-Perception.github.io
+baseurl: /anr-epervier
 paginate: 5
 plugins:
   - jekyll-paginate
@@ -15,7 +15,7 @@ plugins:
 # About/contact
 author:
   name: ÉPERVIER
-  url: https://new_website
+  url: https://XLIM-Perception.github.io
   email: mailing list address
 
 # Custom vars
