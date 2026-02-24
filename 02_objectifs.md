@@ -13,15 +13,14 @@ permalink: /02_objectifs/
 <div class="card" style="margin-bottom: 2rem; background: var(--bg-secondary);">
   <div class="card-content">
     <p style="font-size: 1.1rem; line-height: 1.8; color: var(--text-secondary);">
-     Le projet vise à concevoir et valider une chaîne de traitement opérationnelle et performante pour la surveillance par drone en contexte de catastrophe, couvrant l’ensemble de la chaîne depuis l’acquisition des données jusqu’à la détection et la localisation d’objets et de personnes. <br> En s’appuyant sur les technologies récentes d’imagerie, de modélisation 3D et d’intelligence artificielle, l’objectif est d’améliorer l’exploitation des données visuelles collectées sur des scènes complexes, étendues et dangereuses, afin de faciliter l’évaluation rapide des zones impactées, la priorisation des zones d’intérêt et la coordination des opérations de secours et d’investigation. <br>
-      Il répond ainsi aux besoins opérationnels identifiés par la Gendarmerie nationale pour renforcer l’efficacité de la gestion de crise, la recherche de victimes et la résilience des dispositifs d’expertise en situations extrêmes, en cohérence avec l’axe H.17 de l’AAPG 2025.
-    </p>
+     Le projet vise à concevoir et valider une chaîne de traitement opérationnelle et performante pour la surveillance par drone en contexte de catastrophe, couvrant l’ensemble de la chaîne depuis l’acquisition des données jusqu’à la détection et la localisation d’objets et de personnes. 
+    </p> 
     <p style="font-size: 1.1rem; line-height: 1.8; color: var(--text-secondary);">
-      Cependant, ces services se heurtent encore à des affaires où les outils dont ils disposent 
-      n'apportent pas ou peu de résultats probants. Il existe encore de nombreux axes où les technologies 
-      modernes doivent pouvoir apporter des possibilités d'amélioration et fournir aux services de police 
-      scientifique de nouveaux outils plus performants et probants.
-    </p>
+      En s’appuyant sur les technologies récentes d’imagerie, de modélisation 3D et d’intelligence artificielle, l’objectif est d’améliorer l’exploitation des données visuelles collectées sur des scènes complexes, étendues et dangereuses, afin de faciliter l’évaluation rapide des zones impactées, la priorisation des zones d’intérêt et la coordination des opérations de secours et d’investigation. <br>
+    </p> 
+    <p style="font-size: 1.1rem; line-height: 1.8; color: var(--text-secondary);">
+        Il répond ainsi aux besoins opérationnels identifiés par la Gendarmerie nationale pour renforcer l’efficacité de la gestion de crise, la recherche de victimes et la résilience des dispositifs d’expertise en situations extrêmes, en cohérence avec l’axe H.17 de l’AAPG 2025.
+    </p> 
   </div>
 </div>
 
