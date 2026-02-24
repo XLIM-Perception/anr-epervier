@@ -16,7 +16,7 @@ permalink: /publications/
       <i class="fas fa-book"></i> Publications HAL
     </h3>
     <p style="font-size: 1.1rem; line-height: 1.8; color: var(--text-secondary); margin-bottom: 2rem;">
-      Les publications sont automatiquement récupérées depuis l'archive ouverte HAL (Hyper Articles en Ligne).
+      Les publications sont automatiquement récupérées depuis l'archive ouverte HAL.
     </p>
   </div>
 </div>
