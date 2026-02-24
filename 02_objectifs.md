@@ -110,5 +110,5 @@ permalink: /02_objectifs/
 </div>
 
 <div style="text-align: center; margin-top: 2rem;">
-  <img src="/public/ex_sr.png" alt="Exemple de super-résolution" style="max-width: 100%; height: auto; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl);">
+  <img src="{{ '/public/ex_sr.png' | relative_url }}" alt="Exemple de super-résolution" style="max-width: 100%; height: auto; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl);">
 </div>
