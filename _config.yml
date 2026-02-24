@@ -18,7 +18,7 @@ plugins:
 author:
   name: EPERVIER
   url: https://XLIM-Perception.github.io
-  email:epervier-anr@ml.univ-poitiers.fr
+  email: epervier-anr@ml.univ-poitiers.fr
 
 # Custom vars
 version: 1.0.0
