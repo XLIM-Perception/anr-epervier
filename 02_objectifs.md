@@ -6,7 +6,7 @@ permalink: /02_objectifs/
 
 <div class="section-header" style="text-align: center; margin-bottom: 3rem;">
   <h2 class="section-subtitle" style="font-size: 1.3rem; max-width: 900px; margin: 0 auto; line-height: 1.8;">
-    Le projet vise à concevoir et valider une chaîne de traitement opérationnelle et performante pour la surveillance par drone en contexte de catastrophe, couvrant l’ensemble de la chaîne depuis l’acquisition des données jusqu’à la détection et la localisation d’objets et de personnes. 
+   ExPloration Et Reconnaissance Visuelle par dronE de sites sinistRés
   </h2>
 </div>
 
