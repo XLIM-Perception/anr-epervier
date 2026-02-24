@@ -29,11 +29,10 @@ permalink: /02_objectifs/
     <div class="timeline-marker">1</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-brain"></i> Intelligence Artificielle et Restauration Vidéo
+        <i class="fas fa-brain"></i> Une vision fiable, même en conditions extrêmes
       </h3>
       <p style="line-height: 1.8;">
-        Développement d'algorithmes avancés basés sur l'IA pour la restauration vidéo bas niveau, 
-        incluant le débruitage, le défloutage et la super-résolution multi-images.
+        Assurer une transmission vidéo temps réel robuste et exploitable depuis le drone, malgré des pertes sévères de données en environnements dégradés.
       </p>
     </div>
   </div>
@@ -42,11 +41,10 @@ permalink: /02_objectifs/
     <div class="timeline-marker">2</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-eye"></i> Approches Explicables
+        <i class="fas fa-eye"></i> Coder pour mieux comprendre
       </h3>
       <p style="line-height: 1.8;">
-        Mise en place de méthodes de super-résolution intra-image guidée par modèles de perception, 
-        avec une explicabilité complète des traitements appliqués.
+        Concevoir un codage image/vidéo orienté machine, robuste et adaptatif, préservant les informations visuelles essentielles à l’analyse automatique sous fortes contraintes embarquées.
       </p>
     </div>
   </div>
@@ -55,11 +53,11 @@ permalink: /02_objectifs/
     <div class="timeline-marker">3</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-chart-line"></i> Métriques de Qualité et d'Utilité
+        <i class="fas fa-chart-line"></i> Améliorer pour mieux détecter
       </h3>
       <p style="line-height: 1.8;">
-        Développement de métriques objectives pour évaluer la qualité et l'utilité réelle des 
-        traitements d'amélioration vidéo dans un contexte judiciaire.
+        Développer des traitements d’amélioration d’images orientés machine pour restaurer, sous contraintes embarquées, les structures visuelles clés en environnements fortement dégradés.
+
       </p>
     </div>
   </div>
@@ -68,11 +66,11 @@ permalink: /02_objectifs/
     <div class="timeline-marker">4</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-gavel"></i> Aspects Légaux et Sociétaux
+        <i class="fas fa-gavel"></i> Détection critique sous contraintes embarquées
       </h3>
       <p style="line-height: 1.8;">
-        Étude approfondie des aspects juridiques et sociétaux des outils d'amélioration d'images, 
-        définition de critères pour garantir la loyauté de la preuve.
+     Détecter de manière fiable personnes et fragments corporels dans des vues aériennes complexes et obliques, sous fortes contraintes de calcul embarqué.
+
       </p>
     </div>
   </div>
@@ -81,11 +79,10 @@ permalink: /02_objectifs/
     <div class="timeline-marker">5</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-check-double"></i> Validation et Protocoles
+        <i class="fas fa-check-double"></i> Localiser sans GNSS
       </h3>
       <p style="line-height: 1.8;">
-        Définition de protocoles rigoureux de validation des traitements en collaboration avec 
-        les services de police scientifique pour garantir l'utilité opérationnelle.
+        Assurer la localisation géographique précise et autonome des objets détectés à partir de vues drone, sans dépendance à un GNSS fiable.
       </p>
     </div>
   </div>
@@ -94,15 +91,13 @@ permalink: /02_objectifs/
 <div class="card" style="margin-top: 3rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
   <div class="card-content" style="text-align: center;">
     <i class="fas fa-exclamation-triangle" style="font-size: 3rem; margin-bottom: 1rem; opacity: 0.9;"></i>
-    <h3 style="color: white; margin-bottom: 1rem;">Défis Actuels</h3>
+    <h3 style="color: white; margin-bottom: 1rem;">Défis d'EPERVIER</h3>
     <p style="font-size: 1.1rem; line-height: 1.8; color: rgba(255, 255, 255, 0.95);">
-      Les outils à l'état de l'art, en particulier ceux basés sur l'Intelligence Artificielle, 
-      peuvent même conduire à des erreurs d'interprétation. Il est donc crucial de développer 
-      des méthodes fiables, explicables et validées pour un usage judiciaire.
+       Renforcer l’efficacité de la gestion de crise à travers une perception drone fiable en conditions extrêmes : transmettre, restaurer, compresser, détecter et localiser sans GNSS.
     </p>
   </div>
 </div>
 
 <div style="text-align: center; margin-top: 2rem;">
-  <img src="{{ '/public/ex_sr.png' | relative_url }}" alt="Exemple de super-résolution" style="max-width: 100%; height: auto; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl);">
+  <img src="{{ '/public/flow.png' | relative_url }}" alt="Le projet EPERVIER" style="max-width: 100%; height: auto; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl);">
 </div>
