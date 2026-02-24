@@ -7,7 +7,7 @@ permalink: /01_partenaire/
 <div class="partner-grid">
   <div class="partner-card fade-in-up">
     <a href="https://www.ektacom.net/" target="_blank">
-      <img src="/public/ektacom.jpg" alt="EKTACOM" class="partner-logo">
+      <img src="{{ '/public/ektacom.jpg' | relative_url }}" alt="EKTACOM" class="partner-logo">
     </a>
     <h3 class="partner-name">EKTACOM</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
@@ -20,7 +20,7 @@ permalink: /01_partenaire/
 
   <div class="partner-card fade-in-up">
     <a href="https://www.xlim.fr/" target="_blank">
-      <img src="/public/xlim.png" alt="XLIM" class="partner-logo">
+      <img src="{{ '/public/xlim.png' | relative_url }}" alt="XLIM" class="partner-logo">
     </a>
     <h3 class="partner-name">XLIM</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
@@ -32,7 +32,7 @@ permalink: /01_partenaire/
 
   <div class="partner-card fade-in-up">
     <a href="https://centreborelli.ens-paris-saclay.fr/fr" target="_blank">
-      <img src="/public/borili.png" alt="Centre Borelli" class="partner-logo">
+      <img src="{{ '/public/borili.png' | relative_url }}" alt="Centre Borelli" class="partner-logo">
     </a>
     <h3 class="partner-name">CENTRE BORELLI</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
@@ -44,7 +44,7 @@ permalink: /01_partenaire/
 
   <div class="partner-card fade-in-up">
     <a href="https://ceraps.univ-lille.fr/" target="_blank">
-      <img src="/public/ceraps.jpg" alt="CERAPS" class="partner-logo">
+      <img src="{{ '/public/ceraps.jpg' | relative_url }}" alt="CERAPS" class="partner-logo">
     </a>
     <h3 class="partner-name">CERAPS</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
@@ -56,7 +56,7 @@ permalink: /01_partenaire/
 
   <div class="partner-card fade-in-up">
     <a href="https://www.police-nationale.interieur.gouv.fr/" target="_blank">
-      <img src="/public/snps.png" alt="SNPS" class="partner-logo">
+      <img src="{{ '/public/snps.png' | relative_url }}" alt="SNPS" class="partner-logo">
     </a>
     <h3 class="partner-name">SNPS</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
