@@ -29,7 +29,7 @@ permalink: /02_objectifs/
     <div class="timeline-marker">1</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-brain"></i> Une vision fiable, même en conditions extrêmes
+        <i class="fas fa-tower-broadcast"></i> Une vision fiable, même en conditions extrêmes
       </h3>
       <p style="line-height: 1.8;">
         Assurer une transmission vidéo temps réel robuste et exploitable depuis le drone, malgré des pertes sévères de données en environnements dégradés.
@@ -41,7 +41,7 @@ permalink: /02_objectifs/
     <div class="timeline-marker">2</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-eye"></i> Coder pour mieux comprendre
+        <i class="fas fa-brain"></i> Coder pour mieux comprendre
       </h3>
       <p style="line-height: 1.8;">
         Concevoir un codage image/vidéo orienté machine, robuste et adaptatif, préservant les informations visuelles essentielles à l’analyse automatique sous fortes contraintes embarquées.
@@ -53,7 +53,7 @@ permalink: /02_objectifs/
     <div class="timeline-marker">3</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-chart-line"></i> Améliorer pour mieux détecter
+        <i class="fas fa-eye"></i> Améliorer pour mieux détecter
       </h3>
       <p style="line-height: 1.8;">
         Développer des traitements d’amélioration d’images orientés machine pour restaurer, sous contraintes embarquées, les structures visuelles clés en environnements fortement dégradés.
@@ -65,7 +65,7 @@ permalink: /02_objectifs/
     <div class="timeline-marker">4</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-gavel"></i> Détection critique sous contraintes embarquées
+        <i class="fas fa-street-view"></i> Détection critique sous contraintes embarquées
       </h3>
       <p style="line-height: 1.8;">
      Détecter de manière fiable personnes et fragments corporels dans des vues aériennes complexes et obliques, sous fortes contraintes de calcul embarqué.
@@ -77,7 +77,7 @@ permalink: /02_objectifs/
     <div class="timeline-marker">5</div>
     <div class="timeline-content">
       <h3 style="color: var(--primary-color); margin-bottom: 1rem;">
-        <i class="fas fa-check-double"></i> Localiser sans GNSS
+        <i class="fas fa-earth-europe"></i> Localiser sans GNSS
       </h3>
       <p style="line-height: 1.8;">
         Assurer la localisation géographique précise et autonome des objets détectés à partir de vues drone, sans dépendance à un GNSS fiable.
