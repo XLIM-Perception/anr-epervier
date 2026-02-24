@@ -6,7 +6,7 @@ permalink: /publications/
 
 <div class="section-header" style="text-align: center; margin-bottom: 3rem;">
   <p class="section-subtitle" style="font-size: 1.2rem;">
-    Cette page répertorie les publications scientifiques de nos équipes liées au projet IMPROVED.
+    Cette page répertorie les publications scientifiques de nos équipes liées au projet EPERVIER
   </p>
 </div>
 
