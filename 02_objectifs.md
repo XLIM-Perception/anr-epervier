@@ -93,9 +93,12 @@ permalink: /02_objectifs/
     <p style="font-size: 1.1rem; line-height: 1.8; color: rgba(255, 255, 255, 0.95);">
        Renforcer l’efficacité de la gestion de crise à travers une perception drone fiable en conditions extrêmes : transmettre, restaurer, compresser, détecter et localiser sans GNSS.
     </p>
+    <p align="center">
+      <img src="{{ '/public/flow.png' | relative_url }}" alt="Le projet EPERVIER" style="width: 500; height: auto; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl);">
+    </p>
   </div>
 </div>
 
 <div style="text-align: center; margin-top: 2rem;">
-  <img src="{{ '/public/flow.png' | relative_url }}" alt="Le projet EPERVIER" style="max-width: 200%; height: auto; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl);">
+  
 </div>
