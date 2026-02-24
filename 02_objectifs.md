@@ -6,20 +6,15 @@ permalink: /02_objectifs/
 
 <div class="section-header" style="text-align: center; margin-bottom: 3rem;">
   <h2 class="section-subtitle" style="font-size: 1.3rem; max-width: 900px; margin: 0 auto; line-height: 1.8;">
-    Le projet vise à concevoir et valider une chaîne de traitement opérationnelle et performante pour la surveillance par drone en contexte de catastrophe, couvrant l’ensemble de la chaîne depuis l’acquisition des données jusqu’à la détection et la localisation d’objets et de personnes. Il répond ainsi aux besoins opérationnels identifiés par la Gendarmerie nationale pour renforcer l’efficacité de la gestion de crise, la recherche de victimes et la résilience des dispositifs d’expertise en situations extrêmes, en cohérence avec l’axe H.17 de l’AAPG 2025.
-<img width="7664" height="42" alt="image" src="https://github.com/user-attachments/assets/3b54cf95-10c4-4c80-a252-41be9d16be72" />
-
+    Le projet vise à concevoir et valider une chaîne de traitement opérationnelle et performante pour la surveillance par drone en contexte de catastrophe, couvrant l’ensemble de la chaîne depuis l’acquisition des données jusqu’à la détection et la localisation d’objets et de personnes. 
   </h2>
 </div>
 
 <div class="card" style="margin-bottom: 2rem; background: var(--bg-secondary);">
   <div class="card-content">
     <p style="font-size: 1.1rem; line-height: 1.8; color: var(--text-secondary);">
-      Dans le traitement de leurs affaires judiciaires, les forces de sécurité intérieure disposent 
-      quasi systématiquement de supports vidéo de toutes natures à exploiter. Lorsque les images ou 
-      vidéos récoltées ne sont pas suffisamment exploitables directement par les enquêteurs, elles sont 
-      transmises aux services de police scientifique qui disposent d'outils de pointe pour les traiter 
-      et les améliorer.
+     Le projet vise à concevoir et valider une chaîne de traitement opérationnelle et performante pour la surveillance par drone en contexte de catastrophe, couvrant l’ensemble de la chaîne depuis l’acquisition des données jusqu’à la détection et la localisation d’objets et de personnes. <br> En s’appuyant sur les technologies récentes d’imagerie, de modélisation 3D et d’intelligence artificielle, l’objectif est d’améliorer l’exploitation des données visuelles collectées sur des scènes complexes, étendues et dangereuses, afin de faciliter l’évaluation rapide des zones impactées, la priorisation des zones d’intérêt et la coordination des opérations de secours et d’investigation. <br>
+      Il répond ainsi aux besoins opérationnels identifiés par la Gendarmerie nationale pour renforcer l’efficacité de la gestion de crise, la recherche de victimes et la résilience des dispositifs d’expertise en situations extrêmes, en cohérence avec l’axe H.17 de l’AAPG 2025.
     </p>
     <p style="font-size: 1.1rem; line-height: 1.8; color: var(--text-secondary);">
       Cependant, ces services se heurtent encore à des affaires où les outils dont ils disposent 
