@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications scientifiques
+title: Publications scientifiques et brevets
 permalink: /publications/
 ---
 
