@@ -6,7 +6,7 @@ permalink: /02_objectifs/
 
 <div class="section-header" style="text-align: center; margin-bottom: 3rem;">
   <h2 class="section-subtitle" style="font-size: 1.3rem; max-width: 900px; margin: 0 auto; line-height: 1.8;">
-   ExPloration Et Reconnaissance Visuelle par dronE de sites sinistRés
+   EPERVIER : ExPloration Et Reconnaissance Visuelle par dronE de sites sinistRés
   </h2>
 </div>
 
