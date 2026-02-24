@@ -2,7 +2,7 @@
 permalink: pretty
 
 # Setup
-title: ANR ÉPERVIER
+title: ANR EPERVIER
 
 future: true
 
@@ -16,9 +16,9 @@ plugins:
 
 # About/contact
 author:
-  name: ÉPERVIER
+  name: EPERVIER
   url: https://XLIM-Perception.github.io
-  email: mailing list address
+  email:epervier-anr@ml.univ-poitiers.fr
 
 # Custom vars
 version: 1.0.0
