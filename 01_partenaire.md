@@ -4,20 +4,6 @@ title: Partenaires
 permalink: /01_partenaire/
 ---
 
-<div class="partner-grid">
-  <div class="partner-card fade-in-up">
-    <a href="https://www.ektacom.net/" target="_blank">
-      <img src="{{ '/public/ektacom.jpg' | relative_url }}" alt="EKTACOM" class="partner-logo">
-    </a>
-    <h3 class="partner-name">EKTACOM</h3>
-    <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
-      <li>✓ Coordination du projet</li>
-      <li>✓ Compression vidéo</li>
-      <li>✓ Réduction artéfacts de compression</li>
-      <li>✓ Mise en œuvre réaliste des algorithmes d'amélioration</li>
-    </ul>
-  </div>
-
   <div class="partner-card fade-in-up">
     <a href="https://www.xlim.fr/" target="_blank">
       <img src="{{ '/public/xlim.png' | relative_url }}" alt="XLIM" class="partner-logo">
@@ -31,22 +17,37 @@ permalink: /01_partenaire/
   </div>
 
   <div class="partner-card fade-in-up">
-    <a href="https://centreborelli.ens-paris-saclay.fr/fr" target="_blank">
-      <img src="{{ '/public/borili.png' | relative_url }}" alt="Centre Borelli" class="partner-logo">
+      <a href="https://www.idemia.com/fr/entite/idemia-public-security" target="_blank">
+      <img src="{{ '/public/idemia.jpg' | relative_url }}" alt="IPS" class="partner-logo">
     </a>
-    <h3 class="partner-name">CENTRE BORELLI</h3>
+    <h3 class="partner-name">IDEMIA Public Security</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
       <li>✓ Développement d'algorithmes aveugle de restauration vidéo bas niveau</li>
       <li>✓ Débruitage, défloutage et super-résolution multi-images</li>
       <li>✓ Explicabilité des traitements</li>
     </ul>
   </div>
+  
+  <div class="partner-grid">
+  <div class="partner-card fade-in-up">
+    <a href="https://www.ektacom.net/" target="_blank">
+      <img src="{{ '/public/ektacom.jpg' | relative_url }}" alt="EKTACOM" class="partner-logo">
+    </a>
+    <h3 class="partner-name">EKTACOM</h3>
+    <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
+      <li>✓ Coordination du projet</li>
+      <li>✓ Compression vidéo</li>
+      <li>✓ Réduction artéfacts de compression</li>
+      <li>✓ Mise en œuvre réaliste des algorithmes d'amélioration</li>
+    </ul>
+  </div>
+
 
   <div class="partner-card fade-in-up">
-    <a href="https://ceraps.univ-lille.fr/" target="_blank">
-      <img src="{{ '/public/ceraps.jpg' | relative_url }}" alt="CERAPS" class="partner-logo">
+    <a href="https://www.gendarmerie.interieur.gouv.fr/unpj/l-unpj/institut-de-recherche-criminelle-de-la-gendarmerie-nationale" target="_blank">
+      <img src="{{ '/public/IRCGN.jpg' | relative_url }}" alt="IRCGN" class="partner-logo">
     </a>
-    <h3 class="partner-name">CERAPS</h3>
+    <h3 class="partner-name">Institut de recherche criminelle de la gendarmerie nationale</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
       <li>✓ Étude des aspects légaux et sociétaux des outils d'amélioration d'images</li>
       <li>✓ Réglementation applicable et faisabilité juridique</li>
@@ -54,14 +55,3 @@ permalink: /01_partenaire/
     </ul>
   </div>
 
-  <div class="partner-card fade-in-up">
-    <a href="https://www.police-nationale.interieur.gouv.fr/" target="_blank">
-      <img src="{{ '/public/snps.png' | relative_url }}" alt="SNPS" class="partner-logo">
-    </a>
-    <h3 class="partner-name">SNPS</h3>
-    <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
-      <li>✓ Besoins utilisateurs</li>
-      <li>✓ Définition niveaux utilité réelles</li>
-    </ul>
-  </div>
-</div>
