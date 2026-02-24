@@ -57,7 +57,6 @@ permalink: /02_objectifs/
       </h3>
       <p style="line-height: 1.8;">
         Développer des traitements d’amélioration d’images orientés machine pour restaurer, sous contraintes embarquées, les structures visuelles clés en environnements fortement dégradés.
-
       </p>
     </div>
   </div>
@@ -70,7 +69,6 @@ permalink: /02_objectifs/
       </h3>
       <p style="line-height: 1.8;">
      Détecter de manière fiable personnes et fragments corporels dans des vues aériennes complexes et obliques, sous fortes contraintes de calcul embarqué.
-
       </p>
     </div>
   </div>
