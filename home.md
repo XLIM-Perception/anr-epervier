@@ -6,11 +6,12 @@ permalink: /home/
 
 FICHE D’IDENTITÉ DU PROJET ANR EPERVIER
 
-* Projet ANR-22-CE39-0006 [[Lien vers le résumé](https://anr.fr/Projet-ANR-22-CE39-0006)].
+* Projet ANR-25-CE39-0235 [[Lien vers le résumé](https://anr.fr/Projet-ANR-25-CE39-0235)].
 * Sélectionné par le comité d’évaluation scientifique (CES39) : « Sécurité globale, cybersécurité, résilience et gestion de crise ».
-* Date de début: 06/03/2023.
+* Sélectionné par le Secrétariat Général de la Défense et de la Sécurité Nationale (SDGSN) pour co-financement. 
+* Date de début: 02/02/2026.
 * Durée : 42 mois.
-* Financement : ANR (890k€) Complet (1.556M€).
+* Financement : ANR (841 k€) Complet (1.203 M€).
 
-Co-financé et suivi par le service du Premier ministre (PM) via deux de ses entités : le Secrétariat général de la défense et la sécurité nationale (SGDSN) et l’Agence nationale de la sécurité et des systèmes d’information (ANSSI)
+
 
