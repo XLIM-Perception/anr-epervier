@@ -1,0 +1,52 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: ANR ÉPERVIER
+
+url: https://new_website
+baseurl: ''
+paginate: 5
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+# About/contact
+author:
+  name: ÉPERVIER
+  url: https://new_website
+  email: mailing list address
+
+# Custom vars
+version: 1.0.0
+
+# Navigation
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Partenaire"
+    url: "/01_partenaire/"
+  - title: "Objectifs"
+    url: "/02_objectifs/"
+  - title: "Actualités"
+    url: "/03_actualites/"
+  - title: "Offre de Postes"
+    url: "/04_offre-de-postes/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
