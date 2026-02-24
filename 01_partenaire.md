@@ -3,7 +3,7 @@ layout: page
 title: Partenaires
 permalink: /01_partenaire/
 ---
-
+  <div class="partner-grid">
   <div class="partner-card fade-in-up">
     <a href="https://www.xlim.fr/" target="_blank">
       <img src="{{ '/public/xlim.png' | relative_url }}" alt="XLIM" class="partner-logo">
@@ -28,7 +28,7 @@ permalink: /01_partenaire/
     </ul>
   </div>
   
-  <div class="partner-grid">
+
   <div class="partner-card fade-in-up">
     <a href="https://www.ektacom.net/" target="_blank">
       <img src="{{ '/public/ektacom.jpg' | relative_url }}" alt="EKTACOM" class="partner-logo">
