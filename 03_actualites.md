@@ -6,7 +6,7 @@ permalink: /03_actualites/
 
 <div class="section-header" style="text-align: center; margin-bottom: 3rem;">
   <p class="section-subtitle" style="font-size: 1.2rem;">
-    Cette page regroupe les dernières activités du consortium IMPROVED ainsi que les réunions trimestrielles.
+    Cette page regroupe les dernières activités du consortium EPERVIER ainsi que les réunions trimestrielles.
   </p>
 </div>
 
