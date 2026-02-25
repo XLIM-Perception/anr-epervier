@@ -10,9 +10,11 @@ permalink: /01_partenaire/
     </a>
     <h3 class="partner-name">XLIM</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
-      <li>✓ Approches explicables de super-résolution intra-image guidée par modèles de perception</li>
-      <li>✓ Développement des métriques de qualité et d'utilité</li>
-      <li>✓ Définition du protocole de validation des traitements</li>
+      <li>✓ <u>Coordination du projet</u></li>
+      <li>✓ Compression pour machine des images et vidéos.</li>
+      <li>✓ Approches d'amélioration d'images (super-résolution, débruitage, ...</li>
+      <li>✓ Méthodologies d'évaluation de qualité et d'utilité</li>
+      <li>✓ Définition du protocole de validation de la chaîne </li>
     </ul>
   </div>
 
@@ -35,7 +37,7 @@ permalink: /01_partenaire/
     </a>
     <h3 class="partner-name">EKTACOM</h3>
     <ul class="partner-description" style="text-align: left; list-style: none; padding-left: 0;">
-      <li>✓ Coordination du projet</li>
+  
       <li>✓ Compression vidéo</li>
       <li>✓ Réduction artéfacts de compression</li>
       <li>✓ Mise en œuvre réaliste des algorithmes d'amélioration</li>
