@@ -25,7 +25,7 @@ permalink: /04_offres/
     Pour toute question concernant les opportunités de collaboration ou de recrutement, 
     n'hésitez pas à nous contacter.
   </p>
-  <a href="mailto:improved_anr@ml.univ-poitiers.fr" class="btn btn-primary">
+  <a href="mailto:epervier-anr@ml.univ-poitiers.fr" class="btn btn-primary">
     <i class="fas fa-envelope"></i>
     <span>Nous contacter</span>
   </a>
