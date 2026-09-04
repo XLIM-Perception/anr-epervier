@@ -6,7 +6,7 @@ permalink: /04_offres/
 
 <div class="section-header" style="text-align: center; margin-bottom: 3rem;">
   <p class="section-subtitle" style="font-size: 1.2rem;">
-    Consultez les opportunités de carrière au sein du consortium IMPROVED
+    Consultez les opportunités de carrière au sein du consortium EPERVIER
   </p>
 </div>
 
